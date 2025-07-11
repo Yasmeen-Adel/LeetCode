@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yasmeen-Adel/test/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Yasmeen-Adel/test/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yasmeen-Adel/test/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yasmeen-Adel/test/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
