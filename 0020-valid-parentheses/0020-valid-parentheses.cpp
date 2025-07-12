@@ -7,9 +7,9 @@ public:
             if (c == '(' || c == '[' || c == '{') {
                 st.push(c);
             } else {
-                if (st.empty()) return false;
+                if (st.empty()) return false; 
 
-                char top = st.top();
+                char top = st.top(); 
                 st.pop();
 
                 if ((c == ')' && top != '(') ||
@@ -23,3 +23,6 @@ public:
         return st.empty();
     }
 };
+// only valid --> '(', ')', '{', '}', '[' and ']'
+// stack is empty --> c == '(' || c == '[' || c == '{'
+//left bracket must --> valid right bracket
